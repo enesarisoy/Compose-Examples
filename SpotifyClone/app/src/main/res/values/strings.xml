@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Spotify Clone</string>
+
+    <string name="title_activity_spotify">Spotify</string>
+    <string name="title_activity_spotify_detail">SpotifyDetail</string>
+
+    <string name="spotify_nav_home">Home</string>
+    <string name="spotify_nav_search">Search</string>
+    <string name="spotify_nav_library">Your Library</string>
+
+    <string name="cd_back">Back</string>
+    <string name="back">Back</string>
+</resources>
